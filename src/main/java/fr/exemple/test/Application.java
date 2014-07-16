@@ -12,7 +12,7 @@ import fr.exemple.test.model.repository.global.MyRepositoryFactoryBean;
 @ComponentScan
 @EnableAutoConfiguration
 @EnableMongoRepositories(
-		basePackages = {"fr.exemple.test.repository.global"},
+		basePackages = {"fr.exemple.test"},
 		repositoryFactoryBeanClass = MyRepositoryFactoryBean.class
 )
 public class Application {
