@@ -1,4 +1,4 @@
-add custom behavior to all repositories without xml annotation
+add custom behavior to all repositories without xml configuration
 ==============================================================
 
 Spring application
